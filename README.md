@@ -1,4 +1,4 @@
 # github-demo
 first git repo
 <br>
-Author - Ranjith
+Author - Ranjith singh
